@@ -2,6 +2,9 @@
 title: 🪴 Quartz 3.2
 ---
 
+Ich bin ein Test
+> [!Info] Ja ein Test  
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
